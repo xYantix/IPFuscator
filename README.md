@@ -3,6 +3,7 @@
 ## Author
 
 Vincent Yiu (@vysecurity)
+Python 3 support added by CJ (@xyantix)
 
 ## Blog Post
 https://vincentyiu.co.uk/ipfuscation/
