@@ -21,7 +21,7 @@ IPFuscation is a technique that allows for IP addresses to be represented in hex
 IPFuscator
 Author: Vincent Yiu (@vysecurity)
 https://www.github.com/vysec/IPFuscator
-Version: 0.1.0
+Version: 0.2.0
 
 IP Address:     127.0.0.1
 
